@@ -28,7 +28,7 @@
 │               .:::.:::......:.+xx**xooooo#%@@@@%###ox=-:.:-=+*#@@#+=-====+*xo##%%@@%#*x%=-::xx::+-:          └── LinkedIn -> [seu-usuario]                 │
 │                .---::-::::..:.+*xxxoxxx*++++===+=+-::-==:.:=*o%@@o+++=::-:::-=+=+=+xo#xx=-=-:=-:.                                                          │
 │                .::.::+-::...:.=*xxxx*=-:::::...::*x=-:::..:=*o%%@o+x*===+:::::+=---=xoo*::==o=:              Interests:                                    │
-│                .:.:.*+=+=.:::.-ox**+=====+*xxxoxx**++-:::::+xo#%@#x+**x*+===*ooxxxxoxxx*.=@o#--:.            { IA · Saúde Digital · Backend }              │
+│                .:.:.*+=+=.:::.-ox**+=====+*xxxoxx**++-:::::+xo#%@#x+**x*+===*ooxxxxoxxx*.=@o#--:.            { IA  · Backend }              │
 │                 .::.*-=-xx==..*oo*+*+*xxxxxxx*x******+-:::-=*x#@@@#ooooooooxxoo#%%#ox**+:*@@%--:.                                                          │
 │                   -:*--:oxx+:-*oo*+++*xxx*xxxx*xxxx*+---::--+x#@@@#xooo####oo#o#oo#ox*+-:%@@+                Currently building:                           │
 │                   .:x=:=ooo-=+oxx*+=+++**xxxxxxxxxx*==-:::-=*xo#@@%xxxo#%%%####o##oo**+:o@@%:                └── Triagem Hospitalar com IA                 │
